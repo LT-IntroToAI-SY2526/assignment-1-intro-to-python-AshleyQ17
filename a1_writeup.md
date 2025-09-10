@@ -20,7 +20,14 @@ After completing your problems, reflect on:
 I found Python to be complicated since it was the first time I was using it but I found it somewhat similar to Javascript. I also thought that Python was less wordy and used less characters when writing the code, while for Javascript I had to write more just to do the same thing. For example, in the every other function when using Python it just used up a line of code while when doing it with Javascript it took up around 5 lines of code.
 
 2. **How did you use AI effectively?** Give specific examples of good prompts you used and what you learned from the responses.
-
+I used AI effectively by first telling it "I'm learning Python basics in a high school programming class. I have some experience from my AP CSP class. Can you create 6 practice problems that cover: 
+> - Variables and basic data types
+> - Conditionals (if/elif/else)
+> - Loops (for and while)
+> - Functions
+> - Basic list operations
+> 
+> Make them progressively more challenging. Make sure each problem has clear instructions and example inputs/outputs." Then asking it to "explain in detail how they each work, how the input leads to the output". Then ChatGPT generated explanations to all of the solutions. Something that I learned from the responses is how Python is very similar to Javascript, for example when writing functions it had a very similar structure to the functions in Javascript, this gave me an idea of 
 
 3. **What concepts were most challenging?** How did AI help you understand them?
 
