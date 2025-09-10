@@ -21,6 +21,8 @@ I found Python to be complicated since it was the first time I was using it but 
 
 2. **How did you use AI effectively?** Give specific examples of good prompts you used and what you learned from the responses.
 
+
 3. **What concepts were most challenging?** How did AI help you understand them?
+
 
 4. **What did you learn about collaborating with AI?** What strategies worked best for learning rather than just getting answers?
