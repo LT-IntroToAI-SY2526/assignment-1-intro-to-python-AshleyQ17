@@ -30,6 +30,6 @@ I used AI effectively by first telling it "I'm learning Python basics in a high 
 > Make them progressively more challenging. Make sure each problem has clear instructions and example inputs/outputs." Then asking it to "explain in detail how they each work, how the input leads to the output". Then ChatGPT generated explanations to all of the solutions. Something that I learned from the responses is how Python is very similar to Javascript, for example when writing functions it had a very similar structure to the functions in Javascript, this gave me an idea of 
 
 3. **What concepts were most challenging?** How did AI help you understand them?
-
+Most of the concepts to me were challenging since it was my first time using Python so I didn't know how to write the code in pythonic code, but I think the most challenging one were writing if and else statements since the structure of them was very distinct from if it was done by using Javascript, I felt like in Python they had 
 
 4. **What did you learn about collaborating with AI?** What strategies worked best for learning rather than just getting answers?
