@@ -19,7 +19,7 @@ Remember: The goal is to LEARN, not just get working code!
 # =============================================================================
 
 MY ORIGINAL AI PROMPT:
-"I'm learning Python basics in a high school programming class. I have some experience from my AP CSP class. Can you create 5-7 practice problems that cover: 
+"I'm learning Python basics in a high school programming class. I have some experience from my AP CSP class. Can you create 6 practice problems that cover: 
 > - Variables and basic data types
 > - Conditionals (if/elif/else)
 > - Loops (for and while)
@@ -73,7 +73,7 @@ print(multiplication_table(5))
 Problem 4: [Number Guessing Game (Loops - while loop + Conditionals)]
 [Pick a secret number (e.g., 7). Ask the user to keep guessing until they get it right. Tell them if their guess is too high or too low.]
 """
-secret = 7  # you can change this if you want
+secret = 7  # this number can be changed
 guess = None
 
 while guess != secret:
