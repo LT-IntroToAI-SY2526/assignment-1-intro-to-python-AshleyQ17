@@ -108,8 +108,8 @@ def median(lst: List[int]) -> float:
     if len(lst) % 2 == 1: 
         return lst[len(lst)/ / 2]
     else:
-        m1 = len(lst) / 2
-        m2 = m1 -1
+        m1 = len(lst) // 2
+        m2 = m1 - 1
         return (lst[m1] + lst [m2]) / 2
 
 def duck_duck_goose(lst: List[str]) -> List[str]:

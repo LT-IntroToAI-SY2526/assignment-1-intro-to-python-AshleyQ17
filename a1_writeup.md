@@ -33,3 +33,4 @@ I used AI effectively by first telling it "I'm learning Python basics in a high 
 Most of the concepts to me were challenging since it was my first time using Python so I didn't know how to write the code in pythonic code, but I think the most challenging one were writing if and else statements since the structure of them was very distinct from if it was done by using Javascript, I felt like in Python they had 
 
 4. **What did you learn about collaborating with AI?** What strategies worked best for learning rather than just getting answers?
+Something that I learned about collaborating with AI was that it can be very helpful if you know how to use it right. When I needed help understanding how a 
