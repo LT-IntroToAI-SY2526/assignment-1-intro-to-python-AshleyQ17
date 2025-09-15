@@ -46,7 +46,7 @@ PROBLEM 1: [Warm-up: Favorite Number (Variables and Data types)]
 [Write a program that asks the user for their name and their favorite number. Print a message that includes their name and the square of their favorite number.
 """
 def square_favorite(name, fav_num):
-    return f"Hi {name}! The square of your favorite number is {fav_num ** 2}."
+    return "Hi {name}! The square of your favorite number is {fav_num ** 2}."
 
 """
 
