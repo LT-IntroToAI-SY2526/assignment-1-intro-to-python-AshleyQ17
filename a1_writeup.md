@@ -1,5 +1,7 @@
 # Assignment 1 - Write UP
 
+Ashley Quiroz' Writeup
+
 ## Description
 This is the portion of the assignment that will be graded.  I will be looking at your other files, and specifically either `a1.py` or `a1_practice_problems.py`.  I will be looking to see that you completed the problems or used a generative AI to help you come up with and complete some challenge questions.  This document will help guide you through that process.
 
